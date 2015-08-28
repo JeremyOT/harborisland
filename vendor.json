@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"canonical": "github.com/JeremyOT/structflag",
+			"comment": "",
+			"local": "vendor/github.com/JeremyOT/structflag",
+			"revision": "fc226954b2021690296170997c72ff34f6ede483",
+			"revisionTime": "2015-06-11T20:23:34-04:00"
+		}
+	]
+}
